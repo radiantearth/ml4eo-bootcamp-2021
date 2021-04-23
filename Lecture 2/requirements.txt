@@ -1,0 +1,7 @@
+rasterio
+fiona
+shapely
+geopandas
+arrow
+boto3
+pyproj
