@@ -9,3 +9,5 @@ pyproj
 keras
 tensorflow
 tensorflow_hub
+seaborn
+scikit-learn
