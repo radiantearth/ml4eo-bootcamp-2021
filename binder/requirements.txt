@@ -6,3 +6,6 @@ geopandas
 arrow
 boto3
 pyproj
+keras
+tensorflow
+tensorflow_hub
