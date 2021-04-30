@@ -1,2 +1,8 @@
 radiant-mlhub~=0.1.2
-rasterio~=1.2.2
+rasterio
+fiona
+shapely
+geopandas
+arrow
+boto3
+pyproj
