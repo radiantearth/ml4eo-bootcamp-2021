@@ -11,3 +11,6 @@ tensorflow
 tensorflow_hub
 seaborn
 scikit-learn
+pandas
+numpy
+matplotlib
