@@ -1,4 +1,4 @@
-# Lecture 3 - STAC + Radiant MLHub
+# Lecture 5 - STAC + Radiant MLHub
 
 ## Introduction
 
