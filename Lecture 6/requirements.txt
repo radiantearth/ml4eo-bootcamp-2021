@@ -3,10 +3,7 @@ tensorflow
 tensorflow_hub
 keras
 seaborn
-time
-os
-shutil
-pathlib
-json
-scikit-learn (pandas, numpy, matplotlib)
-itertools
+scikit-learn
+pandas
+numpy
+matplotlib
