@@ -1,9 +1,0 @@
-radiant_mlhub
-tensorflow
-tensorflow_hub
-keras
-seaborn
-scikit-learn
-pandas
-numpy
-matplotlib
