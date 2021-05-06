@@ -6,11 +6,12 @@ geopandas
 arrow
 boto3
 pyproj
-keras
-tensorflow
+keras==2.4.3
+tensorflow==2.4.1
 tensorflow_hub
 seaborn
 scikit-learn
 pandas
 numpy
 matplotlib
+notebook
