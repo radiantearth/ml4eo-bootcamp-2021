@@ -29,3 +29,17 @@ requirements = Path.cwd().parent.parent / 'binder' / 'requirements.txt'
 
 !pip install -r $requirements
 ```
+
+There is also an [`environment.yml`](./environment-dev.yml) file that can be used to create a
+`conda` environment.
+
+```
+conda env create -n my-environment -f environment-dev.yml
+```
+
+> **Windows Users**
+> 
+> Some users were experiencing issues when trying to use `rasterio.warp` functions in a Windows
+> environment. This is likely due to [this issue](https://github.com/mapbox/rasterio/issues/2079),
+> which was fixed in version 1.2. If you are experiencing issues with `rasterio.warp` on Windows
+> please verify that you are using `rasterio>=1.2.0`.
