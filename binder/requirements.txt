@@ -1,4 +1,4 @@
-radiant-mlhub~=0.1.2
+radiant-mlhub~=0.1.3
 rasterio
 fiona
 shapely
