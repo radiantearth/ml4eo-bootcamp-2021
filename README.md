@@ -8,7 +8,7 @@ This bootcamp is organized by [Radiant Earth Foundation](www.radiant.earth) and 
 
 ## Python Dependencies
 
-In order to run the exercise notebooks, you will need to have Python >=3.8 installed. You will also
+In order to run the exercise notebooks, you will need to have Python 3.8 installed. You will also
 need to install some Python dependencies. 
 
 If you are running the notebooks using Binder, all dependencies should be included in the host 
