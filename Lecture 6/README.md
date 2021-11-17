@@ -10,7 +10,7 @@ To learn more about the dataset, checkout its [registry page](http://registry.ml
 * [**radiant-mlhub**](https://rasterio.readthedocs.io/en/latest/) 
 * [**pandas**](https://pandas.pydata.org/docs/) 
 * [**numpy**](https://numpy.org/doc/) 
-* [**matplotlib**](https://matplotlib.org/stable/contents.html) 
+* [**matplotlib**](https://matplotlib.org/stable/) 
 * [**sklearn**](https://scikit-learn.org/stable/) 
 * [**tensorflow**](https://www.tensorflow.org/api_docs/python/tf/all_symbols) 
 * [**keras**](https://keras.io/api/)
