@@ -10,23 +10,23 @@ can be found in the [`data`](./data) directory and are the result of working thr
 
 ## Exercises
 
-1. [**Create Source Imagery STAC Item**](./1_create_source_imagery_stac_item.ipynb)
+1. [**Create Source Imagery STAC Item**](./exercises/1_create_source_imagery_stac_item.ipynb)
    
    Introduces STAC Items and Assets and walks you through the process of creating a STAC Item to 
    catalog our source imagery using the [PySTAC] library.
 
-2. [**Create STAC Label Item**](./2_create_stac_label_item.ipynb)
+2. [**Create STAC Label Item**](./exercises/2_create_stac_label_item.ipynb)
 
    Introduces STAC Extensions and the use of the [Label Extension] to describe labeled data for
    training machine learning models, then walks you through constructing an Item that implements the
    Label Extension.
 
-3. [**Create STAC Collection**](./3_create_stac_collection.ipynb)
+3. [**Create STAC Collection**](./exercises/3_create_stac_collection.ipynb)
 
    Introduces STAC Collections and Catalogs and walks you through the process of constructing a
    Collection containing the Items from the first 2 exercises.
 
-4. [**Training Data from Radiant MLHub**](./4_training_data_from_radiant_mlhub.ipynb)
+4. [**Training Data from Radiant MLHub**](./exercises/4_training_data_from_radiant_mlhub.ipynb)
 
     Walks through using the [radiant_mlhub] Python client to discover and download training datasets
     from the Radiant MLHub API.
